@@ -158,7 +158,7 @@ Portfoli using html
 								is a quick story of me .
 								<hr color="black">
 								Hi, Myself Khushboo kumari.
-I am 21 years old. I am from Patna(Bihar). I did my schooling from Patna and   post graduate from GIET University, Odisha. My overall CGPA is 9.15 in last sem and I did graduation in Magadh University and overall percentage is 71.4%. 
+I am 21 years old. I am from Patna(Bihar). I did my schooling from Patna and   post graduate from GIET University, Odisha. My overall CGPA is 8.93 and I did graduation in Magadh University and overall percentage is 71.4%. 
 <br>
 I belongs to a nuclear Family where my father,mother ,brother and two elder sister ,i am yougest one of them.My father is  a farmer and my mother is a house wife. 
                 <br>
@@ -300,16 +300,15 @@ I belongs to a nuclear Family where my father,mother ,brother and two elder sist
 							<font face="Verdana" size="4" color="white">
 								<ul>
 									<li>
-										<b>Intern at Zoxima Solution Pvt Ltd</b>
+										<b>Software developer at Zoxima Solution Pvt Ltd</b>
 										<ul>
 											<li>
-												November,2021 - Present.
+												September,2022
 											</li>
 											<li>
 											
                         
-                        In zoxima I assign as a software developer intern  in Microsoft
-Powerapps.
+                        
                         <br>Here I Design Many Apps using Crm 365 which are
 Backend and in Frontend I design apps like shopping app and also
 design Team Integration And Visit Integration and etc apps using
